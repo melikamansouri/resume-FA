@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+ <h1> درباره ی من</h1>
+  <p> من مليكا منصورى هستم. من دانشجوی ڪارشناسی رشته ی مهندسی ڪامپیوتر در دانشگاه پیام نور پرند هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام: مليكا</li>
+  <li>نام خانوادگے: منصورى</li>
+  <li>وضعیت تاهل: مجرد</li>
+  <li>تاریخ تولد: 23 تير 1378</li>
+</ul>
 
-You can use the [editor on GitHub](https://github.com/melikamansouri/resume-FA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  
+<h1>مهارت ها</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<ul>
+  <li>ICDL1</li>
+</ul>
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+  <li>ترکی استانبولی</li>
+   <li>اذری</li>
+   <li>انگلیسی</li>
+</ul>
 
-### Markdown
+<h1> تجربه های کاری </h1>
+<ul>
+   <li>هیچی</li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1> سوابق تحصیلی </h1>
+<ul>
+   <li> دیپلم رشته‌ی ریاضے و فیزیک </li>
+   <li> دانشجوی ڪارشناسی رشته ی مهندسی ڪامپیوتر در دانشگاه پیام نور پرند و در حال تحصیل</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<br/>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> سایر حساب های ڪاربری </h1>
+<ul>
+ 
 
-- Bulleted
-- List
+ 
+   -Gmail: mlimnsouri@gmail.com
 
-1. Numbered
-2. List
+   - کوئرا: <a href="https://quera.ir/profile/mlimnsouri">My Profile</a>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melikamansouri/resume-FA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   - رزومه ی انگلیسی: <a href="https://melikamansouri.github.io/resume-EN/"> Resume </a>
+</ul>
